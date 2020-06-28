@@ -39,7 +39,7 @@
         android:id="@+id/button_home_out"
         android:layout_width="30dp"
         android:layout_height="30dp"
-        android:background="@drawable/home"
+        android:background="@drawable/home_btn"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.95"
